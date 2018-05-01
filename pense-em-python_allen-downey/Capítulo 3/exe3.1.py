@@ -3,6 +3,6 @@
 #letra da string estaja na coluna 70 da tela:
 
 def right_justify(s):
-    print(" "*(20-len(s)) + s)
+    print(" "*(70-len(s)) + s)
 
 right_justify('daniel')
