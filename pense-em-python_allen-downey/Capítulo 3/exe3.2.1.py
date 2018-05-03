@@ -15,7 +15,7 @@
 
 #3.2.1. Digite este exemplo em um script e teste-o.
 
-def do_twice(f, num):
+def do_twice(f):
     f()
     f()
 
