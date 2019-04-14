@@ -21,7 +21,7 @@ public class Exe06 {
 		tabuleiro[2][1] = tabuleiro[2][3] = "|";
 		tabuleiro[3][0] = tabuleiro[3][2] = "_"; tabuleiro[3][4] = "_";
 		tabuleiro[4][1] = tabuleiro[4][3] = "|";
-		tabuleiro[1][1] = tabuleiro[1][3] = tabuleiro[3][1] = tabuleiro[3][3] = "";
+		tabuleiro[1][1] = tabuleiro[1][3] = tabuleiro[3][1] = tabuleiro[3][3] = "_";
 		
 		tabuleiro[0][0] = tabuleiro[0][2] = tabuleiro[0][4] = " ";
 		tabuleiro[2][0] = tabuleiro[2][2] = tabuleiro[2][4] = " ";
@@ -56,7 +56,7 @@ public class Exe06 {
 				do {
 					
 					System.out.println("\nJOGADOR 1 (X)");
-					System.out.print("Digite a posiÁ„o (linha/coluna): ");
+					System.out.print("Digite a posi√ß√£o (linha/coluna): ");
 					linhaJogada = scan.nextInt(); 
 					colunaJogada = scan.nextInt();
 					
@@ -107,11 +107,11 @@ public class Exe06 {
 						linha=4; coluna=4;
 					}
 					
-					// Verifica se a jogada È v·lida:	
+					// Verifica se a jogada √© v√°lida:	
 					
 					if(tabuleiro[linha][coluna]!=" " || linhaJogada<1 || linhaJogada>3 || colunaJogada<1 || colunaJogada>3) {
 						
-						System.out.println("Jogada inv·lida!");
+						System.out.println("Jogada inv√°lida!");
 						
 						jogadaValida=false;
 					}
@@ -213,7 +213,7 @@ public class Exe06 {
 				do {
 					
 					System.out.println("\nJOGADOR 2 (O)");
-					System.out.print("Digite a posiÁ„o (linha/coluna): ");
+					System.out.print("Digite a posi√ß√£o (linha/coluna): ");
 					linhaJogada = scan.nextInt(); 
 					colunaJogada = scan.nextInt();
 					
@@ -264,11 +264,11 @@ public class Exe06 {
 						linha=4; coluna=4;
 					}
 					
-					// Verifica se a jogada È v·lida:
+					// Verifica se a jogada √© v√°lida:
 					
 					if(tabuleiro[linha][coluna]!=" " || linhaJogada<1 || linhaJogada>3 || colunaJogada<1 || colunaJogada>3) {
 						
-						System.out.println("Jogada inv·lida!");
+						System.out.println("Jogada inv√°lida!");
 						
 						jogadaValida=false;
 					}
@@ -366,12 +366,12 @@ public class Exe06 {
 		
 		if(ganhador==1) {
 			
-			System.out.println("\nO ganhador È o Jogador 1!");
+			System.out.println("\nO ganhador √© o Jogador 1!");
 		}
 		else 
 		if(ganhador==2){
 			
-			System.out.println("\nO ganhador È o Jogador 2!");
+			System.out.println("\nO ganhador √© o Jogador 2!");
 		}
 		else {
 			
