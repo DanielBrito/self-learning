@@ -7,10 +7,14 @@
     <title>Aula 01 - Vue.js</title>
 </head>
 <body>
-
     <div id="app">
         <h1>{{ titulo }}</h1>
-        <p>Introdução</p>
+        <div v-if="usuario.id==1">
+            Id: {{usuario.id}} <br>
+            Nome: {{usuario.nome}} <br>
+            Profissão: {{usuario.profissao}}
+        </div>
+        <div v-else>Nenhum usuário com o ID = 1.</div>
     </div>
 
     <script src="https://unpkg.com/vue"></script>
@@ -19,7 +23,12 @@
         var app = new Vue({
             el: "#app",
             data: {
-                titulo: "Aula 01 - Vue.js"
+                titulo: "Aula 01 - Vue.js",
+                usuario: {
+                    id: 1,
+                    nome: "Daniel Brito",
+                    profissao: "Full-stack developer"
+                }
             }
         });
     </script>
