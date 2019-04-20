@@ -10,9 +10,11 @@
 <body>
     <div id="app">
         <h1>{{ titulo }}</h1>
+        <ul>
+        	<li v-for="usuario in usuarios">{{ usuario.nome | toUpperCase() | truncate('10') }}</li>
+        </ul>
         <form action="http://google.com">
             <button type="submit" class="btn btn-primary" @click.prevent.stop="enviar()">Enviar</button>
-            <!-- <button type="submit" class="btn btn-primary" v-on:click.prevent.stop="enviar()">Enviar</button> -->
         </form>
     </div>
 
@@ -23,6 +25,23 @@
             el: "#app",
             data: {
                 titulo: "Vue.js",
+                usuarios: [
+                	{ nome: 'Millôr Fernandes' },
+                	{ nome: 'Paulo Leminski' },
+                	{ nome: 'Olga Savari' }
+                ]
+            },
+            filters: {
+            	toUpperCase(str){
+            		return str.toUpperCase();
+            	},
+            	truncate(str, length){
+            		var output = str;
+            		if(output.length>length){
+            			output = str.substring(0, length) + '...';
+            		}
+            		return output;
+            	},
             },
             methods:{
                 enviar(){
