@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Vue.js</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+</head>
+<body>
+    <div id="app">
+        <h1>{{ titulo }}</h1>
+    </div>
+
+    <script src="https://unpkg.com/vue"></script>
+
+    <script>
+        var app = new Vue({
+            el: "#app",
+
+            // https://br.vuejs.org/v2/guide/instance.html
+
+            beforeCreate(){
+                console.log('beforeCreate');
+                console.log('titulo: ', this.titulo);
+                console.log('el: ', this.$el);
+            },
+
+            created(){
+                console.log('created');
+                console.log('titulo: ', this.titulo);
+                console.log('el: ', this.$el);
+            },
+
+            beforeMount(){
+                console.log('beforeMount');
+                console.log('titulo: ', this.titulo);
+                console.log('el: ', this.$el);
+            },
+
+            mounted(){
+                console.log('mounted');
+                console.log('titulo: ', this.titulo);
+                console.log('el: ', this.$el);
+            },
+
+            beforeUpdate(){
+                console.log('beforeUpdate');
+            },
+
+            updated(){
+                console.log('updated');
+            },
+
+            data: {
+                titulo: "Vue.js",
+            }
+        });
+    </script>
+</body>
+</html>
