@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Vue.js</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+</head>
+<body>
+    <div id="app">
+
+        <br><br><br>
+
+        <div class="container">
+            <card>
+                <h4 slot="title" class="card-title">Card Title</h4>
+                <template slot="text">
+                    <p class="card-text">A simple example</p>
+                    <p class="card-text">The first one...</p>
+                </template>
+                <a slot="action" href="#" class="btn btn-primary">Go somewhere</a>
+            </card>
+            <br>
+            <card>
+                <h4 slot="title" class="card-title">Card Title 2</h4>
+                <template slot="text">
+                    <p class="card-text">A simple example</p>
+                    <p class="card-text">The sencond one...</p>
+                </template>
+                <a slot="action" href="#" class="btn btn-primary">Go somewhere else</a>
+            </card>
+        </div>
+    </div>
+
+    <template id="card">
+        <div class="card" style="padding:20px">
+            <img class="card-img-top" src="http://via.placeholder.com/350x150">
+            <div class="card-block" style="margin-top: 20px;">
+                <slot name="title"></slot>
+                <slot name="text"></slot>
+                <slot name="action"></slot>
+            </div>            
+        </div>
+    </template>
+
+    <script src="https://unpkg.com/vue"></script>
+
+    <script>
+        Vue.component('card', {
+            template: '#card',
+            data(){
+                return {
+                    title: '',
+                }
+            }
+        });
+
+        var app = new Vue({
+            el: "#app",
+
+            data: {
+                titulo: "Vue.js",
+            }
+        });
+    </script>
+</body>
+</html>
