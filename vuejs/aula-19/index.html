@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Vue.js</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+</head>
+<body>
+    <div id="app">
+        <br><br><br>
+        <div class="container">
+            <h1>{{titulo}}</h1>   
+            <button @click.stop.prevent="getUsers()" class="btn btn-success">Get Users</button>
+
+            <div v-if="response.status=='error'" class="alert alert-danger">{{response.msg}}</div>
+
+            <div v-if="loader.users" class="">Carregando usuários</div>
+
+            <ul>
+            	<li v-for="user in users">{{user.name}}</li>
+            </ul>
+        </div>
+    </div>
+
+    <script src="https://unpkg.com/vue"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vue-resource@1.5.1"></script>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+
+    <script>
+        var mixin = {
+            methods: {
+                getUsers(){
+                	this.loader.users = true;
+
+                	var url ='http://jsonplaceholder.typicode.com/users';
+                    var vm = this;
+
+                    axios.get(url).then(function(r){
+                        vm.users = r.data;
+                        vm.loader.users = false;
+                    });
+
+/*                    this.$http.get(url)
+                    	.then(function(r){
+	                    	this.users = r.body;
+	                    }, function(error){
+	                    	this.response.status = "error";
+	                    	console.log(error);
+	                    })
+	                    .finally(function(){
+	                    	this.loader.users = false;
+	                    });  */                 
+                }
+            },
+        }
+
+        var app = new Vue({
+            el: "#app",
+
+            mixins: [mixin],
+
+            data: {
+                titulo: "Vue.js",
+                users: [],
+                loader: {
+                	users: false,
+                },
+                response: {
+                	msg: "Erro ao conectar!",
+                	status: ""
+                }
+            },
+        });
+    </script>
+</body>
+</html>
