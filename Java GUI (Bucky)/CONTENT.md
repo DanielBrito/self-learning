@@ -11,7 +11,7 @@
 9 - GridPane\
 10 - Extract and Validate Input\
 11 - CheckBox\
-12 - ChoiceBox (Drop Down Menu)
+12 - ChoiceBox (Drop Down Menu)\
 13 - Listening for Selection Changes\
 14 - ComboBox\
 15 - ListView\
