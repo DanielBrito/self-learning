@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Daniel Bookmarker</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<body onload="fetchBookmarks()">
+
+    <div class="container">
+        <div class="header clearfix">
+            <nav></nav>
+            <h3 align="center" class="text-muted"><i class="fa fa-bookmark"></i> JavaScript Bookmarker <i class="fa fa-bookmark-o"></i></h3></p>
+        </div>
+
+        <div class="jumbotron">
+            <h2>Bookmark your favorite sites</h2>
+            <form id="myForm">
+                <div class="form-group">
+                    <label>Site name</label>
+                    <input type="text" class="form-control" id="siteName" placeholder="Website Name">
+
+                </div>
+                <div class="form-group">
+                    <label>Site URL</label>
+                    <input type="text" class="form-control" id="siteURL" placeholder="Website URL">
+
+                </div>
+                <button type="submit" class="btn btn-warning"><i class="fa fa-star-o"></i> Submit</button>
+            </form>
+
+            <div id="fillFormMessage" style="display: none;"><br><div class="alert alert-warning" align="center"><strong>Attention! </strong>Fill in the form.</div></div>
+            <div id="invalidURLMessage" style="display: none;"><br><div  class="alert alert-warning" align="center"><strong>Attention! </strong>Enter a valid URL.</div></div>
+
+        </div>
+
+        
+        <div class="col-lg-12">
+            <div id="bookmarksResults"></div>
+        </div>
+
+        <footer class="footer">
+            <div class="container text-center"><p>&copy; 2019 Polymatus, Inc.</p></div>
+        </footer>
+
+    </div> <!-- /container -->
+
+    <script src="https://code.jquery.com/jquery-3.4.1.js"
+        integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU=" crossorigin="anonymous"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/main.js"></script>
+
+</body>
+
+</html>
