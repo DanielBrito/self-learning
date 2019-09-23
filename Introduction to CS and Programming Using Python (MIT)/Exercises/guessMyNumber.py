@@ -17,18 +17,20 @@ def guessNumber(n):
         
         guess = random.randint(lower,higher)
         
-        print("\nIs your secret number " + str(guess) + "?")
+        print("\nIs your secret number " + str(guess) + "?\n")
         
-        answer = input("Enter 'h' to indicate the guess is too high. Enter 'l' to indicate the guess is too low. Enter 'c' to indicate I guessed correctly: ")
+        print("Enter 'h' to indicate the guess is too high.")
+        print("Enter 'l' to indicate the guess is too low.")
+        print("Enter 'c' to indicate I guessed correctly.")
+        
+        answer = input("Hint: ")
         
         if answer=='h':
             lower = guess
-            
         elif answer=='l':
             higher = guess
-            
         else:
-            print("Game over. Your secret number was: " + str(guess))   
+            print("\nGame over. Your secret number was: " + str(guess))   
             break
 
 n = 10
