@@ -1,3 +1,10 @@
-# Self learning
+# Self-learning
 
-Alguns autodidatas são fugitivos. Escapam após serrar a grade curricular com o auto-ensino.
+Learning the basics. Learning by doing. Applying knowledge.
+
+Checkout my profile at:
+
+* [DevMedia](https://www.devmedia.com.br/perfil/daniel-brito-3)
+* [GitShowcase](https://www.gitshowcase.com/danielbrito)
+* [freeCodeCamp](https://www.freecodecamp.org/danielbrito)
+* [Stack Overflow](https://pt.stackoverflow.com/users/88832/daniel-brito)
