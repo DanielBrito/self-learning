@@ -1,7 +1,5 @@
 # Self-learning
 
-:nerd_face: Learning the basics. Learning by doing. Applying knowledge.
-
 :mag: Checkout my profile at:
 
 - [DevMedia](https://www.devmedia.com.br/perfil/daniel-brito-3)
