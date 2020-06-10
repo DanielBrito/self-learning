@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <h2>JavaScript Class Method</h2>
+
+    <p>Pass a parameter into the "present()" method.</p>
+
+    <p id="demo"></p>
+
+    <script>
+      class Car {
+        constructor(brand) {
+          this.carname = brand;
+        }
+        present(x) {
+          return x + ", I have a " + this.carname;
+        }
+      }
+
+      mycar = new Car("Ford");
+
+      document.getElementById("demo").innerHTML = mycar.present("Hello");
+    </script>
+  </body>
+</html>

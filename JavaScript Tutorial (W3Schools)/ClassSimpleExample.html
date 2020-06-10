@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <h2>JavaScript Class</h2>
+
+    <p>
+      In this example we demonstrate a simple class definition and how to use
+      it.
+    </p>
+
+    <p id="demo"></p>
+
+    <script>
+      class Car {
+        constructor(brand) {
+          this.carname = brand;
+        }
+      }
+
+      mycar = new Car("Ford");
+
+      document.getElementById("demo").innerHTML = mycar.carname;
+    </script>
+  </body>
+</html>
