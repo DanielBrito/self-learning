@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>CSS Grids #1</title>
+    <style>
+      .wrapper {
+        display: grid;
+        grid-template-columns: 70% 30%;
+
+        /* grid-column-gap: 1em;
+        grid-row-gap: 1em; */
+        grid-gap: 1em;
+      }
+      .wrapper > div {
+        background: #eee;
+        padding: 1em;
+      }
+      .wrapper > div:nth-child(odd) {
+        background: #ddd;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="wrapper">
+      <div>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor illo iste
+        aliquam distinctio facilis similique vitae? Ipsum inventore doloremque
+        quae voluptatibus quos. Voluptatum quisquam iste vel nostrum eum,
+        impedit doloribus quis fugiat beatae nulla voluptate aspernatur labore
+        veritatis dolor neque fuga esse odit itaque consequatur tenetur quod.
+        Perspiciatis, exercitationem debitis! Molestias, doloremque? Nisi
+        doloremque qui esse incidunt quis soluta iure delectus sequi, mollitia
+        ducimus? Ea libero commodi error reprehenderit minima in eum, vitae
+        adipisci esse, iure voluptatem, facere temporibus possimus!
+      </div>
+      <div>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam nam
+        tempora numquam alias magnam libero hic consequuntur tenetur. Iusto ipsa
+        facilis doloremque laborum repellat sunt accusantium expedita quia
+        voluptas odit!
+      </div>
+
+      <div>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor illo iste
+        aliquam distinctio facilis similique vitae? Ipsum inventore doloremque
+        quae voluptatibus quos. Voluptatum quisquam iste vel nostrum eum,
+        impedit doloribus quis fugiat beatae nulla voluptate aspernatur labore
+        veritatis dolor neque fuga esse odit itaque consequatur tenetur quod.
+        Perspiciatis, exercitationem debitis! Molestias, doloremque? Nisi
+        doloremque qui esse incidunt quis soluta iure delectus sequi, mollitia
+        ducimus? Ea libero commodi error reprehenderit minima in eum, vitae
+        adipisci esse, iure voluptatem, facere temporibus possimus!
+      </div>
+      <div>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam nam
+        tempora numquam alias magnam libero hic consequuntur tenetur. Iusto ipsa
+        facilis doloremque laborum repellat sunt accusantium expedita quia
+        voluptas odit!
+      </div>
+    </div>
+  </body>
+</html>
