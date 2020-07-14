@@ -1,0 +1,15 @@
+// '_config.scss' is a 'partial'. It's not compiled.
+
+$font-stack: Arial, Helvetica, sans-serif;
+$light-color: #f4f4f4;
+$primary-color: #0e6cff;
+$secondary-color: #ff8700;
+
+// Set text color based on background:
+@function set-text-color($color){
+  @if(lightness($color)>70){
+    @return #333;
+  }@else{
+    @return #fff;
+  }
+}
