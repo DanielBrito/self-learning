@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: black;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  height: 80px;
+  width: 100%;
+}
+
+h1 {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+section {
+  padding: 20px 40px;
+}
+
+p {
+  text-align: justify;
+}
