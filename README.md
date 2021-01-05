@@ -1,8 +1,3 @@
 # Self-learning
 
-:mag: Check out my profile at:
-
-- [DevMedia](https://www.devmedia.com.br/perfil/daniel-brito-3)
-- [GitShowcase](https://www.gitshowcase.com/danielbrito)
-- [freeCodeCamp](https://www.freecodecamp.org/danielbrito)
-- [Stack Overflow](https://pt.stackoverflow.com/users/88832/daniel-brito)
+I'm also learning [ReactJS](https://github.com/DanielBrito/react-js-tutorials) and [Unit Tests](https://github.com/DanielBrito/learning-unit-testing) by following some tutorials.
