@@ -1,6 +1,6 @@
 # Self-learning
 
-:mag: Checkout my profile at:
+:mag: Check out my profile at:
 
 - [DevMedia](https://www.devmedia.com.br/perfil/daniel-brito-3)
 - [GitShowcase](https://www.gitshowcase.com/danielbrito)
