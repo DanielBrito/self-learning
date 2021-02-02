@@ -4,12 +4,12 @@
 	<img src="https://i.imgur.com/GD9JvBI.jpg" alt="Self learning">	
 </div><br>
 
-I'm **learning** different aspects of several **languages**, **development tools** and **concepts** by myself. So, I've decided to maintain this repository in order to use it as a **personal studying resource**, because I always like to **revisit** this content when I **forget** or **get stuck** on something.
+I've been **learning** different aspects of several **languages**, **development tools** and **concepts** by myself. So, I've decided to maintain this repository in order to use it as a **personal studying resource**, because I always like to **revisit** this content when I **forget** or **get stuck** on something.
 
 ## 📌 Study Guides
 
 - [100 Days of Code](https://github.com/nas5w/100-days-of-code-frontend)
-- [freeCodeCamp](https://www.freecodecamp.org/learn)
+- [freeCodeCamp](https://www.freecodecamp.org/learn) <a href="https://www.freecodecamp.org/danielbrito" style="text-decoration: none; font-size: 12px" title="My profile">👤</a>
 - [Front-end Masters](https://frontendmasters.com/books/front-end-handbook/2019/)
 - [Web Skills](https://andreasbm.github.io/web-skills/)
 - [Developer Roadmap](https://roadmap.sh/)
@@ -17,9 +17,8 @@ I'm **learning** different aspects of several **languages**, **development tools
 - [Front-end Guide](https://github.com/DanielBrito/front-end-guide)
 - [JavaScript Algorithms](https://github.com/DanielBrito/javascript-algorithms)
 - [Computer Science Guide](https://github.com/DanielBrito/coding-interview-university)
-- [Free Programming Books](https://github.com/DanielBrito/free-programming-books)
 
-## 📑 Topics
+## 📑 Studying Topics
 
 - [Web Development Basics](https://github.com/DanielBrito/web-dev-basics)
 - [ReactJS](https://github.com/DanielBrito/react-js-tutorials)
@@ -33,6 +32,11 @@ I'm **learning** different aspects of several **languages**, **development tools
 - [Vue.js](https://github.com/DanielBrito/learning-vuejs)
 - [Programming Languages](https://github.com/DanielBrito/learning-languages)
 
-## 🧰 Resources
+## 🧰 Useful Resources
 
 - [Design Resources for Developers](https://github.com/DanielBrito/design-resources-for-developers)
+- [Free Programming Books](https://github.com/DanielBrito/free-programming-books)
+
+## 🎉 Cool Stuff
+
+- [CSSBattle](https://cssbattle.dev/) <a href="https://cssbattle.dev/player/danielbrito" style="text-decoration: none; font-size: 12px" title="My profile">👤</a>
