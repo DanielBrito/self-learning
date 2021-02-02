@@ -40,3 +40,4 @@ I've been **learning** different aspects of several **languages**, **development
 ## 🎉 Cool Stuff
 
 - [CSSBattle](https://cssbattle.dev/) <a href="https://cssbattle.dev/player/danielbrito" style="text-decoration: none; font-size: 12px" title="My profile">👤</a>
+- [Fun With Flags](https://github.com/DanielBrito/fun-with-flags)
