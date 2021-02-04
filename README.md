@@ -18,7 +18,7 @@ I've been **learning** different aspects of several **languages**, **development
 - [JavaScript Algorithms](https://github.com/DanielBrito/javascript-algorithms)
 - [Computer Science Guide](https://github.com/DanielBrito/coding-interview-university)
 
-## 📑 Studying Topics
+## 📑 Learning Topics
 
 - [Web Development Basics](https://github.com/DanielBrito/web-dev-basics)
 - [ReactJS](https://github.com/DanielBrito/react-js-tutorials)
@@ -36,8 +36,3 @@ I've been **learning** different aspects of several **languages**, **development
 
 - [Design Resources for Developers](https://github.com/DanielBrito/design-resources-for-developers)
 - [Free Programming Books](https://github.com/DanielBrito/free-programming-books)
-
-## 🎉 Cool Stuff
-
-- [CSSBattle](https://cssbattle.dev/) <a href="https://cssbattle.dev/player/danielbrito" style="text-decoration: none; font-size: 12px" title="My profile">👤</a>
-- [Fun With Flags](https://github.com/DanielBrito/fun-with-flags)
