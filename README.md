@@ -35,6 +35,13 @@ I've been **learning** different aspects of several **languages**, **development
 
 - [Ideas, Ongoing, Completed](https://github.com/DanielBrito?tab=projects)
 
+## 💡 Inspiring Content
+
+- [Awwwards](https://www.awwwards.com/)
+- [Behance](https://www.behance.net/)
+- [Dribbble](https://dribbble.com/)
+- [Abduzeedo](https://abduzeedo.com/)
+
 ## 🧰 Useful Resources
 
 - [Design Resources for Developers](https://github.com/DanielBrito/design-resources-for-developers)
