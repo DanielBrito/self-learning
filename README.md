@@ -1,4 +1,4 @@
-# 🤓 Self-learning
+<h1 align="center">🤓 Self-learning</h1>
 
 <div align="center">
 	<img src="https://i.imgur.com/GD9JvBI.jpg" alt="Self learning">	
