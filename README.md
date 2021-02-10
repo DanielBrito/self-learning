@@ -8,7 +8,7 @@ I've been **learning** different aspects of several **programming languages**, *
 
 ## 📌 Study Guides
 
-- [100DaysOfCode](https://github.com/nas5w/100-days-of-code-frontend)
+- [100DaysOfCode](https://github.com/DanielBrito/100-days-of-code-frontend)
 - [freeCodeCamp](https://www.freecodecamp.org/learn) <a href="https://www.freecodecamp.org/danielbrito" style="text-decoration: none; font-size: 12px" title="My profile">👤</a>
 - [Front-end Masters](https://frontendmasters.com/books/front-end-handbook/2019/)
 - [Web Skills](https://andreasbm.github.io/web-skills/)
