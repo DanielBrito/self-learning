@@ -47,3 +47,4 @@ I've been **learning** different aspects of several **programming languages**, *
 - [Design Resources for Developers](https://github.com/DanielBrito/design-resources-for-developers)
 - [Free Programming Books](https://github.com/DanielBrito/free-programming-books)
 - [Devhints](https://devhints.io/)
+- [Front-end Guidelines Questionnaire](https://github.com/DanielBrito/frontend-guidelines-questionnaire)
