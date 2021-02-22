@@ -29,6 +29,7 @@ I've been **learning** different aspects of several **programming languages**, *
 - [Android](https://github.com/DanielBrito/learning-android)
 - [Python](https://github.com/DanielBrito/learning-python)
 - [Vue.js](https://github.com/DanielBrito/learning-vuejs)
+- [Node.js](https://github.com/DanielBrito/learning-node)
 - [Programming Languages](https://github.com/DanielBrito/learning-languages)
 
 ## 🚀 Personal Projects
