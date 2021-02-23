@@ -4,7 +4,7 @@
 	<img src="https://i.imgur.com/GD9JvBI.jpg" alt="Self learning">	
 </div><br>
 
-I've been **learning** different aspects of several **programming languages**, **development tools** and **concepts** by myself. So, I've decided to maintain this repository in order to use it as a **personal studying resource**, because I always like to **revisit** this content when I **forget** or **get stuck** on something.
+Since I started working on **development projects**, I've been **learning** different aspects of several **programming languages**, **tools** and **concepts** by myself. So, I've decided to maintain this repository in order to use it as a **personal studying resource**, because I always like to **revisit** this content when I **get stuck** on something.
 
 ## 📌 Study Guides
 
