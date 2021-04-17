@@ -43,6 +43,13 @@ Since I started working on **software development**, I've been **learning** diff
 - [Dribbble](https://dribbble.com/)
 - [Abduzeedo](https://abduzeedo.com/)
 
+## 📚 Interesting Books
+
+- [Front-end Developer Handbook (Front-end Masters)](https://frontendmasters.com/books/front-end-handbook/2019/)
+- [Don't Make Me Think (Steve Krug)](https://www.amazon.com.br/Dont-Make-Think-Revisited-Usability-ebook/dp/B00HJUBRPG)
+- [Clean Code (Robert Martin)](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+- [The Pragmatic Programmer (David Thomas & Andrew Hunt)](https://www.amazon.com.br/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052)
+
 ## 🧰 Useful Resources
 
 - [Design Resources for Developers](https://github.com/DanielBrito/design-resources-for-developers)
