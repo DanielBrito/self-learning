@@ -22,7 +22,7 @@ Since I started working as a **software developer**, I've been **learning** diff
 - [Web Development Basics](https://github.com/DanielBrito/web-dev-basics)
 - [ReactJS](https://github.com/DanielBrito/react-js-tutorials)
 - [TypeScript](https://github.com/DanielBrito/learning-typescript)
-- [Testing](https://github.com/DanielBrito/learning-unit-testing)
+- [Testing](https://github.com/DanielBrito/learn-testing)
 - [Git](https://github.com/DanielBrito/pro-git)
 - [Processing](https://github.com/DanielBrito/learning-processing)
 - [Java](https://github.com/DanielBrito/learning-java)
