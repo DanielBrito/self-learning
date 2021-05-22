@@ -56,3 +56,5 @@ Since I started working as a **software developer**, I've been **learning** diff
 - [Free Programming Books](https://github.com/DanielBrito/free-programming-books)
 - [Devhints](https://devhints.io/)
 - [Front-end Guidelines Questionnaire](https://github.com/DanielBrito/frontend-guidelines-questionnaire)
+- [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
+- [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/)
