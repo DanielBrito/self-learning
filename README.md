@@ -24,6 +24,7 @@ Since I started working as a **software developer**, I've been **learning** diff
 - [TypeScript](https://github.com/DanielBrito/learning-typescript)
 - [Testing](https://github.com/DanielBrito/learn-testing)
 - [Git](https://github.com/DanielBrito/pro-git)
+- [UI/UX Design](https://github.com/DanielBrito/ui-ux-design-research)
 - [Processing](https://github.com/DanielBrito/learning-processing)
 - [Java](https://github.com/DanielBrito/learning-java)
 - [Android](https://github.com/DanielBrito/learning-android)
@@ -46,7 +47,6 @@ Since I started working as a **software developer**, I've been **learning** diff
 ## 📚 Interesting Books
 
 - [Front-end Developer Handbook (Front-end Masters)](https://frontendmasters.com/books/front-end-handbook/2019/)
-- [Don't Make Me Think (Steve Krug)](https://www.amazon.com.br/Dont-Make-Think-Revisited-Usability-ebook/dp/B00HJUBRPG)
 - [Clean Code (Robert Martin)](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 - [The Pragmatic Programmer (David Thomas & Andrew Hunt)](https://www.amazon.com.br/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052)
 
