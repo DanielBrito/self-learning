@@ -24,7 +24,7 @@ Since I started working as a **software developer**, I've been **learning** diff
 - [TypeScript](https://github.com/DanielBrito/learning-typescript)
 - [Testing](https://github.com/DanielBrito/learn-testing)
 - [Git](https://github.com/DanielBrito/pro-git)
-- [UI/UX Design](https://github.com/DanielBrito/ui-ux-design-research)
+- [UI/UX Design](https://github.com/DanielBrito/ui-ux-design)
 - [Processing](https://github.com/DanielBrito/learning-processing)
 - [Java](https://github.com/DanielBrito/learning-java)
 - [Android](https://github.com/DanielBrito/learning-android)
