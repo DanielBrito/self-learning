@@ -19,6 +19,7 @@ Since I started working as a **software developer**, I've been **learning** diff
 
 ## 📑 Learning Topics
 
+- [Problem Solving](https://github.com/DanielBrito/competitive-programming)
 - [Web Development Basics](https://github.com/DanielBrito/web-dev-basics)
 - [ReactJS](https://github.com/DanielBrito/react-js-tutorials)
 - [TypeScript](https://github.com/DanielBrito/learning-typescript)
