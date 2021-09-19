@@ -27,12 +27,13 @@ Since I started working as a **software developer**, I've been **learning** diff
 - [Testing](https://github.com/DanielBrito/learn-testing)
 - [Git](https://github.com/DanielBrito/pro-git)
 - [UI/UX Design](https://github.com/DanielBrito/ui-ux-design)
-- [Processing](https://github.com/DanielBrito/learning-processing)
 - [Java](https://github.com/DanielBrito/learning-java)
 - [Android](https://github.com/DanielBrito/learning-android)
+- [Flutter](https://github.com/DanielBrito/learning-flutter)
 - [Python](https://github.com/DanielBrito/learning-python)
-- [Vue.js](https://github.com/DanielBrito/learning-vuejs)
 - [Node.js](https://github.com/DanielBrito/learning-node)
+- [Vue.js](https://github.com/DanielBrito/learning-vuejs)
+- [Processing](https://github.com/DanielBrito/learning-processing)
 - [Languages](https://github.com/DanielBrito/learning-languages)
 
 ## 🚀 Projects
