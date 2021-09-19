@@ -1,21 +1,22 @@
-<h1 align="center">🤓 Self-learning</h1>
+<h1 align="center">🤓 SELF-LEARNING</h1>
 
 <div align="center">
 	<img src="https://i.imgur.com/GD9JvBI.jpg" alt="Self learning">	
 </div><br>
 
-Since I started working as a **software developer**, I've been **learning** different aspects of several **programming languages**, **tools** and **concepts** by myself. So, I've decided to maintain this repository in order to use it as a **personal studying resource**, because I always like to **revisit** this content when **I need to remember** a subject or when **I get stuck** on something.
+Since I started working as a **software developer**, I've been **learning** different aspects of several **programming languages**, **tools** and **concepts** by myself. So, I've decided to maintain this repository in order to use it as a **personal studying resource**, because I always like to **review** this content when **I need to remember** a subject or when **I get stuck** on something.
 
 ## 📌 Study Guides
 
 - [100DaysOfCode](https://github.com/DanielBrito/100-days-of-code-frontend)
-- [freeCodeCamp](https://www.freecodecamp.org/learn) <a href="https://www.freecodecamp.org/danielbrito" style="text-decoration: none; font-size: 12px" title="My profile">👤</a>
+- [freeCodeCamp](https://www.freecodecamp.org/learn) <a href="https://www.freecodecamp.org/danielbrito" style="text-decoration: none; font-size: 12px" title="My profile">&nbsp; 👤</a>
 - [Front-end Masters](https://frontendmasters.com/books/front-end-handbook/2019/)
 - [Web Skills](https://andreasbm.github.io/web-skills/)
 - [Developer Roadmap](https://roadmap.sh/)
 - [Tech Interview Handbook](https://github.com/DanielBrito/tech-interview-handbook)
 - [Front-end Guide](https://github.com/DanielBrito/front-end-guide)
 - [Computer Science Guide](https://github.com/DanielBrito/coding-interview-university)
+- [Front-end Guidelines Questionnaire](https://github.com/DanielBrito/frontend-guidelines-questionnaire)
 
 ## 📑 Learning Topics
 
@@ -32,11 +33,14 @@ Since I started working as a **software developer**, I've been **learning** diff
 - [Python](https://github.com/DanielBrito/learning-python)
 - [Vue.js](https://github.com/DanielBrito/learning-vuejs)
 - [Node.js](https://github.com/DanielBrito/learning-node)
-- [Programming Languages](https://github.com/DanielBrito/learning-languages)
+- [Languages](https://github.com/DanielBrito/learning-languages)
 
-## 🚀 Personal Projects
+## 🚀 Projects
 
-- [Ideas, Ongoing, Completed](https://github.com/DanielBrito?tab=projects)
+- [Personal](https://github.com/DanielBrito?tab=projects)
+- [DevChallenges](https://devchallenges.io/)
+- [Front-end Challenges](https://github.com/felipefialho/frontend-challenges)
+- [App Ideas](https://github.com/florinpop17/app-ideas)
 
 ## 💡 Inspiring Content
 
@@ -47,14 +51,15 @@ Since I started working as a **software developer**, I've been **learning** diff
 
 ## 📚 Interesting Books
 
-- [Front-end Developer Handbook (Front-end Masters)](https://frontendmasters.com/books/front-end-handbook/2019/)
-- [Clean Code (Robert Martin)](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
-- [The Pragmatic Programmer (David Thomas & Andrew Hunt)](https://www.amazon.com.br/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052)
+- [Front-end Developer Handbook](https://frontendmasters.com/books/front-end-handbook/2019/) (Front-end Masters)
+- [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) (Robert Martin)
+- [Clean Architecture](https://www.amazon.com.br/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164) (Robert Martin)
+- [The Pragmatic Programmer](https://www.amazon.com.br/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052) (David Thomas & Andrew Hunt)
+- [Free Programming Books](https://github.com/DanielBrito/free-programming-books)
 
 ## 🧰 Useful Resources
 
-- [Free Programming Books](https://github.com/DanielBrito/free-programming-books)
 - [Devhints](https://devhints.io/)
-- [Front-end Guidelines Questionnaire](https://github.com/DanielBrito/frontend-guidelines-questionnaire)
 - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
-
+- [JSON Formatter](https://jsonformatter.curiousconcept.com)
+- [JSON Placeholder](https://jsonplaceholder.typicode.com/)
