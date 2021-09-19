@@ -9,7 +9,7 @@ Since I started working as a **software developer**, I've been **learning** diff
 ## 📌 Study Guides
 
 - [100DaysOfCode](https://github.com/DanielBrito/100-days-of-code-frontend)
-- [freeCodeCamp](https://www.freecodecamp.org/learn) <a href="https://www.freecodecamp.org/danielbrito" style="text-decoration: none; font-size: 12px" title="My profile">&nbsp; 👤</a>
+- [freeCodeCamp](https://www.freecodecamp.org/learn)<span>&nbsp; <a href="https://www.freecodecamp.org/danielbrito" style="text-decoration: none; font-size: 12px" title="My profile">👤</a></span>
 - [Front-end Masters](https://frontendmasters.com/books/front-end-handbook/2019/)
 - [Web Skills](https://andreasbm.github.io/web-skills/)
 - [Developer Roadmap](https://roadmap.sh/)
