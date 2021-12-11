@@ -56,7 +56,7 @@ Since I started working as a **software developer**, I've been **learning** diff
 - [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) (Robert Martin)
 - [Clean Architecture](https://www.amazon.com.br/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164) (Robert Martin)
 - [The Pragmatic Programmer](https://www.amazon.com.br/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052) (David Thomas & Andrew Hunt)
-- [Free Programming Books](https://github.com/DanielBrito/free-programming-books)
+- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 
 ## 🧰 Useful Resources
 
