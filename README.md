@@ -8,15 +8,15 @@ Since I started working as a **software developer**, I've been **learning** diff
 
 ## 📌 Study Guides
 
-- [100DaysOfCode](https://github.com/DanielBrito/100-days-of-code-frontend)
+- [100DaysOfCode](https://github.com/nas5w/100-days-of-code-frontend)
 - [freeCodeCamp](https://www.freecodecamp.org/learn)<span>&nbsp; <a href="https://www.freecodecamp.org/danielbrito" style="text-decoration: none; font-size: 12px" title="My profile">👤</a></span>
 - [Front-end Masters](https://frontendmasters.com/books/front-end-handbook/2019/)
 - [Web Skills](https://andreasbm.github.io/web-skills/)
 - [Developer Roadmap](https://roadmap.sh/)
-- [Tech Interview Handbook](https://github.com/DanielBrito/tech-interview-handbook)
-- [Front-end Guide](https://github.com/DanielBrito/front-end-guide)
-- [Computer Science Guide](https://github.com/DanielBrito/coding-interview-university)
-- [Front-end Guidelines Questionnaire](https://github.com/DanielBrito/frontend-guidelines-questionnaire)
+- [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
+- [Front-end Guide](https://github.com/grab/front-end-guide)
+- [Computer Science Guide](https://github.com/jwasham/coding-interview-university)
+- [Front-end Guidelines Questionnaire](https://github.com/bradfrost/frontend-guidelines-questionnaire)
 
 ## 📑 Learning Topics
 
