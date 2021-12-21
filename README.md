@@ -34,7 +34,6 @@ Since I started working as a **software developer**, I've been **learning** diff
 - [Node.js](https://github.com/DanielBrito/node-studies)
 - [Vue.js](https://github.com/DanielBrito/vue-js-studies)
 - [Processing](https://github.com/DanielBrito/processing-studies)
-- [Languages](https://github.com/DanielBrito/learning-languages)
 
 ## 🚀 Projects
 
