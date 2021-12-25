@@ -1,4 +1,4 @@
-<h1 align="center">🤓 SELF-LEARNING</h1>
+<h1 align="center">🤓 Self-Learning</h1>
 
 <div align="center">
 	<img src="https://i.imgur.com/GD9JvBI.jpg" alt="Self learning">	
@@ -31,16 +31,9 @@ Since I started working as a **software developer**, I've been **learning** diff
 - [Android](https://github.com/DanielBrito/android-studies)
 - [Flutter](https://github.com/DanielBrito/flutter-studies)
 - [Python](https://github.com/DanielBrito/python-studies)
-- [Node.js](https://github.com/DanielBrito/node-studies)
+- [Node.js](https://github.com/DanielBrito/node-js-studies)
 - [Vue.js](https://github.com/DanielBrito/vue-js-studies)
-- [Processing](https://github.com/DanielBrito/processing-studies)
-
-## 🚀 Projects
-
-- [Personal](https://github.com/DanielBrito?tab=projects)
-- [DevChallenges](https://devchallenges.io/)
-- [Front-end Challenges](https://github.com/felipefialho/frontend-challenges)
-- [App Ideas](https://github.com/florinpop17/app-ideas)
+- [Processing](https://github.com/DanielBrito/generative-design)
 
 ## 💡 Inspiring Content
 
@@ -48,6 +41,9 @@ Since I started working as a **software developer**, I've been **learning** diff
 - [Behance](https://www.behance.net/)
 - [Dribbble](https://dribbble.com/)
 - [Abduzeedo](https://abduzeedo.com/)
+- [DevChallenges](https://devchallenges.io/)
+- [Front-end Challenges](https://github.com/felipefialho/frontend-challenges)
+- [App Ideas](https://github.com/florinpop17/app-ideas)
 
 ## 📚 Interesting Books
 
