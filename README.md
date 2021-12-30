@@ -57,8 +57,5 @@ Since I started working as a **software developer**, I've been **learning** diff
 
 - [Devhints](https://devhints.io/)
 - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
-- [JSON Formatter](https://jsonformatter.curiousconcept.com)
-- [JSON Placeholder](https://jsonplaceholder.typicode.com/)
-- [ImageOptim](https://imageoptim.com/versions.html)
 - [YSlow](http://yslow.org/)
 - [WebPageTest](https://webpagetest.org/)
