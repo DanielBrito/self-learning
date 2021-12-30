@@ -20,7 +20,6 @@ Since I started working as a **software developer**, I've been **learning** diff
 
 ## 📑 Learning Topics
 
-- [Problem Solving](https://github.com/DanielBrito/competitive-programming)
 - [Web Development Basics](https://github.com/DanielBrito/web-dev-basics)
 - [ReactJS](https://github.com/DanielBrito/react-js-studies)
 - [TypeScript](https://github.com/DanielBrito/typescript-studies)
@@ -41,6 +40,10 @@ Since I started working as a **software developer**, I've been **learning** diff
 - [Behance](https://www.behance.net/)
 - [Dribbble](https://dribbble.com/)
 - [Abduzeedo](https://abduzeedo.com/)
+
+## 🚀 Project Challenges
+
+- [Problem Solving](https://github.com/DanielBrito/competitive-programming)
 - [DevChallenges](https://devchallenges.io/)
 - [Front-end Challenges](https://github.com/felipefialho/frontend-challenges)
 - [App Ideas](https://github.com/florinpop17/app-ideas)
@@ -54,7 +57,7 @@ Since I started working as a **software developer**, I've been **learning** diff
 - [The Pragmatic Programmer](https://www.amazon.com.br/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052) (David Thomas & Andrew Hunt)
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 
-## 🧰 Useful Resources
+## 🧰 Helpful Resources
 
 - [Devhints](https://devhints.io/)
 - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
