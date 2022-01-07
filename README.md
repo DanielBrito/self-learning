@@ -64,3 +64,4 @@ Since I started working as a **software developer**, I've been **learning** diff
 - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 - [YSlow](http://yslow.org/)
 - [WebPageTest](https://webpagetest.org/)
+- [Cheatography](https://cheatography.com/programming/)
