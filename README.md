@@ -10,7 +10,6 @@ Since I started working as a **software developer**, I've been **learning** diff
 
 - [100DaysOfCode](https://github.com/nas5w/100-days-of-code-frontend)
 - [freeCodeCamp](https://www.freecodecamp.org/learn)<span>&nbsp; <a href="https://www.freecodecamp.org/danielbrito" style="text-decoration: none; font-size: 12px" title="My profile">👤</a></span>
-- [Front-end Masters](https://frontendmasters.com/books/front-end-handbook/2019/)
 - [Web Skills](https://andreasbm.github.io/web-skills/)
 - [Developer Roadmap](https://roadmap.sh/)
 - [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
