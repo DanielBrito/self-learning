@@ -19,6 +19,7 @@ Since I started working as a **software developer**, I've been **learning** diff
 
 ## 📑 Learning Topics
 
+- [Problem Solving](https://github.com/DanielBrito/competitive-programming)
 - [Web Development Basics](https://github.com/DanielBrito/web-dev-basics)
 - [ReactJS](https://github.com/DanielBrito/react-js-studies)
 - [TypeScript](https://github.com/DanielBrito/typescript-studies)
@@ -42,7 +43,6 @@ Since I started working as a **software developer**, I've been **learning** diff
 
 ## 🚀 Project Challenges
 
-- [Problem Solving](https://github.com/DanielBrito/competitive-programming)
 - [DevChallenges](https://devchallenges.io/)
 - [Front-end Challenges](https://github.com/felipefialho/frontend-challenges)
 - [App Ideas](https://github.com/florinpop17/app-ideas)
