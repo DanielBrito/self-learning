@@ -29,6 +29,7 @@ Since I started working as a **software developer**, I've been **learning** diff
 - [Java](https://github.com/DanielBrito/java-studies)
 - [Android](https://github.com/DanielBrito/android-studies)
 - [Flutter](https://github.com/DanielBrito/flutter-studies)
+- [React Native](https://github.com/DanielBrito/react-native-studies)
 - [Python](https://github.com/DanielBrito/python-studies)
 - [Node.js](https://github.com/DanielBrito/node-js-studies)
 - [Vue.js](https://github.com/DanielBrito/vue-js-studies)
