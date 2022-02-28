@@ -16,6 +16,7 @@ Since I started working as a **software developer**, I've been **learning** diff
 - [Front-end Guide](https://github.com/grab/front-end-guide)
 - [Computer Science Guide](https://github.com/jwasham/coding-interview-university)
 - [Front-end Guidelines Questionnaire](https://github.com/bradfrost/frontend-guidelines-questionnaire)
+- [Frontend Focus](https://frontendfoc.us/)
 
 ## 📑 Learning Topics
 
@@ -56,6 +57,7 @@ Since I started working as a **software developer**, I've been **learning** diff
 - [Clean Architecture](https://www.amazon.com.br/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164) (Robert Martin)
 - [Clean Coder](https://www.amazon.com.br/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073) (Robert Martin)
 - [The Pragmatic Programmer](https://www.amazon.com.br/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052) (David Thomas & Andrew Hunt)
+- [Professional Front-end Architecture](https://www.amazon.com.br/Professional-Front-end-Architecture-Front-End-Development/dp/1726146456) (Fabio Nolasco)
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 
 ## 🧰 Helpful Resources
@@ -68,3 +70,7 @@ Since I started working as a **software developer**, I've been **learning** diff
 - [Public APIs](https://github.com/public-apis/public-apis)
 - [The Power of Serverless](https://serverless.css-tricks.com/)
 - [Explain Shell](https://explainshell.com/)
+- [CodePen](https://codepen.io/)
+- [JSFiddle](https://jsfiddle.net/)
+- [StackBlitz](https://stackblitz.com/)
+- [Replit](https://replit.com/)
