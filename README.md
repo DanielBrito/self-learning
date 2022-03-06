@@ -25,6 +25,7 @@ Since I started working as a **software developer**, I've been **learning** diff
 - [ReactJS](https://github.com/DanielBrito/react-js-studies)
 - [TypeScript](https://github.com/DanielBrito/typescript-studies)
 - [Testing](https://github.com/DanielBrito/testing-studies)
+- [Performance](https://github.com/DanielBrito/performance-studies)
 - [Git](https://github.com/DanielBrito/pro-git)
 - [UI/UX Design](https://github.com/DanielBrito/ui-ux-design-studies)
 - [Java](https://github.com/DanielBrito/java-studies)
@@ -60,16 +61,18 @@ Since I started working as a **software developer**, I've been **learning** diff
 - [Professional Front-end Architecture](https://www.amazon.com.br/Professional-Front-end-Architecture-Front-End-Development/dp/1726146456) (Fabio Nolasco)
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 
-## 🧰 Helpful Resources
+## 🧰 General Resources
+
+### References
 
 - [Devhints](https://devhints.io/)
-- [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
-- [YSlow](http://yslow.org/)
-- [WebPageTest](https://webpagetest.org/)
 - [Cheatography](https://cheatography.com/programming/)
 - [Public APIs](https://github.com/public-apis/public-apis)
 - [The Power of Serverless](https://serverless.css-tricks.com/)
 - [Explain Shell](https://explainshell.com/)
+
+### Platforms
+
 - [CodePen](https://codepen.io/)
 - [JSFiddle](https://jsfiddle.net/)
 - [StackBlitz](https://stackblitz.com/)
