@@ -30,6 +30,7 @@ Since I started working as a **software developer**, I've been **learning** diff
 - [UI/UX Design](https://github.com/DanielBrito/ui-ux-design-studies)
 - [Java](https://github.com/DanielBrito/java-studies)
 - [Android](https://github.com/DanielBrito/android-studies)
+- [Kotlin](https://github.com/DanielBrito/kotlin-studies)
 - [Flutter](https://github.com/DanielBrito/flutter-studies)
 - [React Native](https://github.com/DanielBrito/react-native-studies)
 - [Python](https://github.com/DanielBrito/python-studies)
