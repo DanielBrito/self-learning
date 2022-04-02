@@ -71,6 +71,7 @@ Since I started working as a **software developer**, I've been **learning** diff
 - [Public APIs](https://github.com/public-apis/public-apis)
 - [The Power of Serverless](https://serverless.css-tricks.com/)
 - [Explain Shell](https://explainshell.com/)
+- [Agile Manifesto](https://agilemanifesto.org/)
 
 ### Platforms
 
