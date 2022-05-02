@@ -24,6 +24,7 @@ Since I started working as a **software developer**, I've been **learning** diff
 - [Web Development Basics](https://github.com/DanielBrito/web-dev-basics)
 - [ReactJS](https://github.com/DanielBrito/react-js-studies)
 - [TypeScript](https://github.com/DanielBrito/typescript-studies)
+- [GraphQL](https://github.com/DanielBrito/graphql-studies)
 - [Testing](https://github.com/DanielBrito/testing-studies)
 - [Performance](https://github.com/DanielBrito/performance-studies)
 - [Git](https://github.com/DanielBrito/pro-git)
@@ -79,3 +80,4 @@ Since I started working as a **software developer**, I've been **learning** diff
 - [JSFiddle](https://jsfiddle.net/)
 - [StackBlitz](https://stackblitz.com/)
 - [Replit](https://replit.com/)
+
