@@ -73,6 +73,7 @@ Since I started working as a **software developer**, I've been **learning** diff
 - [The Power of Serverless](https://serverless.css-tricks.com/)
 - [Explain Shell](https://explainshell.com/)
 - [Agile Manifesto](https://agilemanifesto.org/)
+- [LinkedIn Skill Assessments Quizzes](https://ebazhanov.github.io/linkedin-skill-assessments-quizzes/)
 
 ### Platforms
 
