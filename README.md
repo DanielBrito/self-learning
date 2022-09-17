@@ -17,6 +17,7 @@ Since I started working as a **software developer**, I've been **learning** diff
 - [Computer Science Guide](https://github.com/jwasham/coding-interview-university)
 - [Front-end Guidelines Questionnaire](https://github.com/bradfrost/frontend-guidelines-questionnaire)
 - [Frontend Focus](https://frontendfoc.us/)
+- [TechGuide](https://techguide.sh/)
 
 ## 📑 Learning Topics
 
