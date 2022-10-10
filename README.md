@@ -78,6 +78,7 @@ Since I started working as a **software developer**, I've been **learning** diff
 - [LinkedIn Skill Assessments Quizzes](https://ebazhanov.github.io/linkedin-skill-assessments-quizzes/)
 - [StackShare](https://stackshare.io/stacks)
 - [Patterns.dev](https://www.patterns.dev/)
+- [Refactoring Guru](https://refactoring.guru/)
 
 ### Platforms
 
