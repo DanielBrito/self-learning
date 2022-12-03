@@ -54,6 +54,9 @@ Since I started working as a **software developer**, I've been **learning** diff
 - [Front-end Challenges](https://github.com/felipefialho/frontend-challenges)
 - [App Ideas](https://github.com/florinpop17/app-ideas)
 - [Mobile Challenges](https://github.com/robsonsilv4/mobile-challenges)
+- [Front-end Mentor](https://www.frontendmentor.io/)
+- [CodePen Challenges](https://codepen.io/challenges)
+- [Codewell](https://www.codewell.cc/)
 
 ## 📚 Interesting Books
 
