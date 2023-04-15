@@ -40,6 +40,7 @@ Since I started working as a **software developer**, I've been **learning** diff
 - [Node.js](https://github.com/DanielBrito/node-js-studies)
 - [Vue.js](https://github.com/DanielBrito/vue-js-studies)
 - [Processing](https://github.com/DanielBrito/generative-design)
+- [Design Patterns](https://github.com/DanielBrito/design-patterns)
 
 ## 💡 Inspiring Content
 
