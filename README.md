@@ -81,9 +81,7 @@ Since I started working as a **software developer**, I've been **learning** diff
 - [Agile Manifesto](https://agilemanifesto.org/)
 - [LinkedIn Skill Assessments Quizzes](https://ebazhanov.github.io/linkedin-skill-assessments-quizzes/)
 - [StackShare](https://stackshare.io/stacks)
-- [Patterns.dev](https://www.patterns.dev/)
 - [The Twelve Factor App](https://12factor.net/)
-- [Refactoring Guru](https://refactoring.guru/)
 
 ### Platforms
 
@@ -91,3 +89,5 @@ Since I started working as a **software developer**, I've been **learning** diff
 - [JSFiddle](https://jsfiddle.net/)
 - [StackBlitz](https://stackblitz.com/)
 - [Replit](https://replit.com/)
+- [Mermaid](https://mermaid.js.org/)
+
