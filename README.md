@@ -60,4 +60,4 @@ Since I started working as a **software developer**, I've been **learning** diff
 - [Front-end Mentor](https://www.frontendmentor.io/)
 - [CodePen Challenges](https://codepen.io/challenges)
 - [Codewell](https://www.codewell.cc/)
-
+- [Coding Challenges](https://codingchallenges.fyi/)
