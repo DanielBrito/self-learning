@@ -30,6 +30,7 @@ Since I started working as a **software developer**, I've been **learning** diff
 - [TypeScript](https://github.com/DanielBrito/typescript-studies)
 - [GraphQL](https://github.com/DanielBrito/graphql-studies)
 - [Testing](https://github.com/DanielBrito/testing-studies)
+- [SQL](https://github.com/DanielBrito/sql-studies)
 - [Performance](https://github.com/DanielBrito/performance-studies)
 - [Git](https://github.com/DanielBrito/pro-git)
 - [UI/UX Design](https://github.com/DanielBrito/ui-ux-design-studies)
