@@ -4,7 +4,7 @@
 	<img src="https://i.imgur.com/GD9JvBI.jpg" alt="Self learning">	
 </div><br>
 
-Since I started working as a software developer, I've been **learning** different aspects of various **programming languages**, **tools** and **concepts** on my own. So I decided to maintain this repository to use it as a **personal study resource**, because I always like to **review** this content when **I need to remember** a subject or when **I get stuck** on something.
+Since entering the software development world, I've committed to continuous self-directed learning. This repository is my personal Knowledge Base / TIL (Today I Learned). I use it to anchor new concepts, document programming languages, and maintain a quick-reference guide for whenever I need a refresher or hit a roadblock.
 
 ## 📌 Study Guides
 
