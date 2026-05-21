@@ -44,6 +44,7 @@ Since I started working as a software developer, I've been **learning** differen
 - [Vue.js](https://github.com/DanielBrito/vue-js-studies)
 - [Processing](https://github.com/DanielBrito/generative-design)
 - [Design Patterns](https://github.com/DanielBrito/design-patterns-studies)
+- [Artificial Intelligence](https://github.com/DanielBrito/artificial-inteligence-studies)
 
 ## 💡 Inspiring Content
 
