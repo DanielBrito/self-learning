@@ -44,7 +44,7 @@ Since entering the software development world, I've committed to continuous self
 - [Vue.js](https://github.com/DanielBrito/vue-js-studies)
 - [Processing](https://github.com/DanielBrito/generative-design)
 - [Design Patterns](https://github.com/DanielBrito/design-patterns-studies)
-- [Artificial Intelligence](https://github.com/DanielBrito/artificial-inteligence-studies)
+- [Artificial Intelligence](https://github.com/DanielBrito/ai-studies)
 
 ## 💡 Inspiring Content
 
